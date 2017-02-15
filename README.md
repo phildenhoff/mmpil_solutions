@@ -4,10 +4,10 @@ List from [MMPIL](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-pr
 
 ## Text
 
-- [:white_check_mark:] Reverse a string
+- [X] Reverse a string
 - [ ] Pig Latin
-- [:white_check_mark:] Count vowels
-- [:white_check_mark:] Check Palindromity
+- [X] Count vowels
+- [X] Check Palindromity
 - [ ] Text editor (preferably command line)
 - [ ] Command-line stock tracker
 - [ ] CD Key generator
