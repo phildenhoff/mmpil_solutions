@@ -1,5 +1,5 @@
 # Martyr2's Mega Project Idea List Solutions
-It seems like a good idea to do a bunch of little projects to learn Python before [Battle Snake](battlesnake.io "battlesnake.io").
+It seems like a good idea to do a bunch of little projects to learn Python before [Battle Snake](http://www.battlesnake.io "battlesnake.io").
 List from [MMPIL](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
 ## Text
