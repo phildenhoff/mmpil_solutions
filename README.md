@@ -5,7 +5,7 @@ List from [MMPIL](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-pr
 ## Text
 
 - [X] Reverse a string
-- [ ] Pig Latin
+- [x] Pig Latin
 - [X] Count vowels
 - [X] Check Palindromity
 - [ ] Text editor (preferably command line)
