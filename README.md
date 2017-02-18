@@ -11,7 +11,7 @@ List from [MMPIL](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-pr
 - [ ] Text editor (preferably command line)
 - [ ] Command-line stock tracker
 - [ ] CD Key generator
-- [ ] Vignere / Vernam / Caeser Ciphers
+- [X] Vignere / Vernam / Caeser Ciphers Note: Vernam is not done. May come back to this one day...
 
 ## Networking
 
