@@ -17,7 +17,7 @@ List from [MMPIL](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-pr
 
 - [X] Get Atomic time from Internet clock (command line)
 - [ ] Command-line chat application using central server to distribute messages
-- [ ] Fetch current weather & make clothing recommendations
+- [X] Fetch current weather & make clothing recommendations
 
 ## Classes
 
